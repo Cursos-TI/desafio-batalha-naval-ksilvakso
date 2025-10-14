@@ -25,5 +25,7 @@ int main() {
         printf("%s\n", nome8[i]);
         printf("%s\n", nome9[i]);
         printf("%s\n", nome10[i]);
+
+        printf("Novo commit\n");
     }
 }
